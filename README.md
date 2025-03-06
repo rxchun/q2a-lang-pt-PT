@@ -1,6 +1,6 @@
 # Question2Answer Portuguese translation (pt-PT)
 
-This translation includes the portuguese "New Orthographic Agreement".
+This translation includes the portuguese "New Orthographic Agreement".  
 Esta tradução inclui o "Novo Acordo Ortográfico" português.
 
 ## Installation
