@@ -18,3 +18,7 @@ Esta tradução inclui o "Novo Acordo Ortográfico" português.
 3. Copia a pasta `pt-PT` e move-a para o directório `qa_lang` na tua instalação do Q2A
 4. Visita o teu site Q2A no teu navegador, navega para `Admin > General > Site Language`
 5. Seleciona *Portuguese (PT)* e guarda as alterações.
+
+<a href="https://www.paypal.com/paypalme/chun128" target="_blank" title="Buy me a coffee :)"/>
+<img src="https://i.ibb.co/jPnJ3ZpG/bmac180.png" border="0" name="submit" alt="Buy me a coffee with PayPal!"/>
+<a/>
